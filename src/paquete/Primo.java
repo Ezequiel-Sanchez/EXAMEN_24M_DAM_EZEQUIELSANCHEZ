@@ -9,7 +9,7 @@ public class Primo {
 		System.out.println("Buenos días Ceinmark, soy Ezequiel Sanchez \nIntroduce un número para averiguar si es primo o no:");
 		num=ent.nextInt();
 		if (num/num==aux) {
-			System.out.println("auxilio");
+			System.out.println("auxilio ");
 		}else {
 			System.out.println("El número no es primo \n Los divisores del número son: ");
 		}
